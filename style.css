@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+    --cor1: hsl(263, 55%, 52%);
+    --cor2: hsl(217, 19%, 35%);
+    --cor3: hsl(219, 29%, 14%);
+    --cor4: hsl(0, 0%, 100%);
+    --cor5: hsl(0, 0%, 81%);
+    --cor6: hsl(210, 46%, 95%);
+}
+
+/*mobile first*/
+
+
