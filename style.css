@@ -40,6 +40,14 @@ section{
     border-radius: 10px;
 }
 
+#card1{
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+    background-position-x: 225px;
+}
+
 .imgp{
     width: 56px;
     height: 56px;
@@ -101,65 +109,20 @@ section{
     color: var(--cor4);
 }
 .p1e4{
-    color: var(--cor4)
+    color: var(--cor4);
 }
 
 .h3e5{
-    color:var(--cor3)
+    color:var(--cor3);
 }
 
 .p3e5{
-    color:var(--cor3)
+    color:var(--cor3);
 }
 
 .p21e4{
     color: var(--cor5);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #card1{
     background-color: var(--cor1);
