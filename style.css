@@ -40,14 +40,6 @@ section{
     border-radius: 10px;
 }
 
-#card1{
-    background-image: url(./images/bg-pattern-quotation.svg);
-    background-repeat: no-repeat;
-    background-position: top right;
-    background-size: 150px;
-    background-position-x: 225px;
-}
-
 .imgp{
     width: 56px;
     height: 56px;
@@ -126,6 +118,11 @@ section{
 
 #card1{
     background-color: var(--cor1);
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+    background-position-x: 225px;
 }
 
 #card2{
@@ -144,3 +141,40 @@ section{
     background-color: var(--cor5);
 }
 
+
+@media (min-width: 625px){
+
+   section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /*isso aqui constrói 3 colunas*/
+    width: 1400px;
+    max-width: 1475px;
+    margin: 0 auto;
+   }
+
+   #card1{
+    width: 550px;
+   }
+
+   #card2{
+    width: 325px;
+   }
+
+   #card3{
+    grid-column: 1;
+    grid-area: 20px;
+    width: 250px;
+    
+   }
+
+   #card4{
+    width: 600px;
+    align-items: left;
+   }
+
+   #card5{
+    grid-column: 3;
+    grid-row: 1 / 4;
+   }
+
+}
