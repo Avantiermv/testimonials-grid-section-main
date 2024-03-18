@@ -153,21 +153,29 @@ section{
    }
 
    #card1{
+    grid-column: 1;
+    grid-row: 1;
     width: 550px;
    }
 
    #card2{
+    grid-column: 1;
+    grid-row: 1;
     width: 325px;
+    margin-left: 650px;
    }
 
    #card3{
     grid-column: 1;
+    grid-row: 2;
     width: 250px;
-    
    }
 
    #card4{
+    grid-column: 1;
+    grid-row: 2;
     width: 600px;
+    margin-left: 377px;
    }
 
    #card5{
