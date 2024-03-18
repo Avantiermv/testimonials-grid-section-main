@@ -146,7 +146,7 @@ section{
 
    section{
     display: grid;
-    grid-template-columns: 1fr   1fr; /*isso aqui constrói 3 colunas*/
+    grid-template-columns: 1fr 1fr; /*isso aqui constrói 3 colunas*/
     width: 1400px;
     max-width: 1475px;
     margin: 0 auto;
