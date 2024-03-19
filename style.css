@@ -169,6 +169,7 @@ section{
     grid-column: 1;
     grid-row: 2;
     width: 250px;
+    margin-top: 10px;
    }
 
    #card4{
@@ -176,11 +177,28 @@ section{
     grid-row: 2;
     width: 600px;
     margin-left: 377px;
+    margin-top: 10px;
    }
 
    #card5{
     grid-column: 3;
     grid-row: 1 / 4;
+   }
+
+   .h1e4{
+    font-size: 25px;
+   }
+
+   .p21e4{
+    font-size: 18px;
+   }
+
+   .h3e5{
+    font-size: 25px;
+   }
+   
+   .p3e5{
+    font-size: 18px;
    }
 
 }
