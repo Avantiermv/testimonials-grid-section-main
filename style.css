@@ -156,6 +156,10 @@ section{
     grid-column: 1;
     grid-row: 1;
     width: 550px;
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
    }
 
    #card2{
