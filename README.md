@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Solution URL: [Solution site URL](https://github.com/Avantiermv/testimonials-grid-section-main)
+- Live Site URL: [Live site URL](https://avantiermv.github.io/testimonials-grid-section-main/)
 
 ## My process
 
@@ -44,10 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+Well, I've learned a few things about css like flexbox, grid-layout and mobile-first. But I need to learn more about these things and I'm going to study more.
 
 ## Author
 
